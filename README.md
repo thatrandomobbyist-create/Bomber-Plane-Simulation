@@ -50,6 +50,10 @@ A set of Roblox (Luau) scripts for spawning jets, dropping bombs, and handling a
 
 ---
 
+# Example
+
+![Demo](demo.gif)
+
 ## Notes
 
 * Tested in Roblox Studio
