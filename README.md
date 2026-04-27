@@ -52,7 +52,7 @@ A set of Roblox (Luau) scripts for spawning jets, dropping bombs, and handling a
 
 # Example
 
-![Demo](demo.gif)
+<img width="800" height="408" alt="Image" src="https://github.com/user-attachments/assets/44c46870-a140-4e41-8e1b-95dcb1bc4238" />
 
 ## Notes
 
